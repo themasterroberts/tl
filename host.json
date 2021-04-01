@@ -1,0 +1,29 @@
+
+{
+  "title": "titleHere",
+  "description": "descriptionHere",
+  "artist": "artistHere",
+  "author": "authorHere",
+  "cover": "directImageURLHere",
+  "chapters": {
+  
+    "chapterNumberHere": {
+      "title": "titleHere",
+      "volume": "volumeNumberHere",
+      "groups": {
+        "groupNameHere": "/proxy/api/imgur/chapter/XXXXXXXX/"
+      },
+      "last_updated": "unixTimestampHere"
+    },
+    
+     "chapterNumberHere": {
+      "title": "titleHere",
+      "volume": "volumeNumberHere",
+      "groups": {
+        "groupNameHere": "/proxy/api/imgur/chapter/XXXXXXXX/"
+      },
+      "last_updated": "unixTimestampHere"
+    },
+    
+  }
+}
